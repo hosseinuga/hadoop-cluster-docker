@@ -1,8 +1,6 @@
 ##Run Hadoop Cluster within Docker Containers
 
 
-![alt tag](https://raw.githubusercontent.com/hosseinuga/hadoop-cluster-docker/master/hadoop-cluster-docker.png)
-
 
 ###3 Nodes Hadoop Cluster
 
@@ -15,7 +13,7 @@ sudo docker pull kiwenlau/hadoop:1.0
 #####2. clone github repository
 
 ```
-git clone https://github.com/kiwenlau/hadoop-cluster-docker
+git clone https://github.com/hosseinuga/hadoop-cluster-docker
 ```
 
 #####3. create hadoop network
